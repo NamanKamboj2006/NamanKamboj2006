@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building my foundational skills in C and Python.<br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects and coding challenges.<br>🤝 I’m looking for help with: Applying coding concepts to real-world projects and learning best practices in AI engineering.<br>🌱 I’m currently learning: C, Python<br>⚡ Fun fact: I got into coding because I love solving puzzles and experimenting with AI concepts!
+🔭 I’m currently working on: Building my foundational skills in C and Python.<br>👯 I’m looking to collaborate on: Beginner-friendly open-source projects and coding challenges.<br>🤝 I’m looking for help with: Applying coding concepts to real-world projects and learning best practices in AI engineering.<br>🌱 I’m currently learning: Python<br>⚡ Fun fact: I got into coding because I love solving puzzles and experimenting with AI concepts!
 
 
 # 💻 Tech Stack:

@@ -7,7 +7,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NamanKamboj2006&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NamanKamboj2006&theme=github_dark&hide_border=false&t=1)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=NamanKamboj2006&theme=github_dark&hide_border=false&t=2)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanKamboj2006&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
